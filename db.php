@@ -1,8 +1,8 @@
 <?php
 
-$servername = "localhost";
+$servername = "http://3.111.29.67/";
 $username = "root";
-$password = "";
+$password = "Saradhi#123";
 $db = "onlineshop";
 
 // Create connection
